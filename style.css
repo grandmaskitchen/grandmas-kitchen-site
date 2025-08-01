@@ -1,0 +1,53 @@
+body {
+    font-family: Georgia, serif;
+    background-color: #fffaf3;
+    color: #3c3c3c;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+header {
+    background-color: #b08968;
+    color: white;
+    padding: 2rem 1rem 1rem;
+}
+nav {
+    margin-bottom: 1rem;
+}
+nav a {
+    color: #fdf6e3;
+    text-decoration: none;
+    margin: 0 10px;
+    font-weight: bold;
+}
+main {
+    padding: 2rem 1rem;
+}
+.download-btn {
+    display: inline-block;
+    padding: 1rem 2rem;
+    margin-top: 1rem;
+    background-color: #6b705c;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 6px;
+}
+footer {
+    background-color: #fefae0;
+    padding: 1.5rem;
+    font-size: 0.9rem;
+    color: #666;
+    font-style: italic;
+}
+a {
+    color: #6b705c;
+}
+ul {
+    text-align: left;
+    max-width: 600px;
+    margin: 0 auto 2rem;
+}
+ul li {
+    padding: 0.5rem 0;
+}
